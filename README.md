@@ -1,8 +1,5 @@
 # FullStack_Ecommerce_App
 A FullStack Ecommerce App built with Django and React. 
-<p id ="top" align="center">
-  <img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/ecommerce%20%20products%20list%20page.png?raw=true" width="100%">
-</p>
 
 # Table of contents
 - [About_this_App](#About_this_App)
